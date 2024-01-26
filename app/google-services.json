@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338060376836",
+    "project_id": "sign-up-b23a6",
+    "storage_bucket": "sign-up-b23a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338060376836:android:073f6ba6c588e0f37a6e51",
+        "android_client_info": {
+          "package_name": "jolchu.tolik.me.logscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-5dPCdADs7T_d0ECToWF6xhaaAVlZ0Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
